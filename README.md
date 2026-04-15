@@ -1,5 +1,5 @@
 # Heidi Green - Portfolio
-Sound and Music projects
+Sound and music projects
 
 ## Includes:   
 **CS416P-Clipped:**  
